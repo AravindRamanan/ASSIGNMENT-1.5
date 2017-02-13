@@ -19,6 +19,7 @@ BIG DATA:
 
 Big Data is a high-volume, highvelocity and high-variety information asset that demands cost-effective, innovative forms of information
 processing for enhanced insight and decision making.
+Big Data is a concept in Software Engineering which we use when we have a large sets of machine generated data, which in most of the cases is unstructured and not easy to use with traditional RDBMS concepts.
 
 3)HADOOP BECOMING THE SOLUTION FOR DATA EXPLOSION:
 
